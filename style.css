@@ -1,0 +1,39 @@
+{
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#F2E2E0;
+    font-family: 'Courier', sans-serif;
+    color:#55403f;
+}
+
+header{
+    background-color:#C7AEB0;
+}
+
+footer{
+    background-color:#C7AEB0;
+}
+
+h1,h2,h3,h4{
+    color:#525023;
+}
+
+.image-circle {
+    border-radius: 15%;
+}
+
+.wrapper {
+    width:1000px;
+    margin:auto;
+}
+
+a{
+    font-family: 'courier', sans-serif;
+    font-size:15px;
+}
+a:link    { color:#6A5150; }
+a:visited { color:#7E7D58; }
+a:hover   { color:#af7573; }
+a:active  { color:#737373; }
