@@ -20,4 +20,4 @@ This web page is created with:
 
 ## Screenshot
 
-![Settings Window](https://raw.github.com/rimachaib/First-Portfolio-Page/main/first-portfolio-page-screenshot.png)
+![Settings Window](https://raw.github.com/rimachaib/First-Portfolio-Page/main/portfolio-page-screenshot.png)
