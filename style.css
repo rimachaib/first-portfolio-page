@@ -1,42 +1,65 @@
-{
-    box-sizing: border-box;/*This will be added to the top of every CSS page so that my page doesn't default to the olde method of box-sizing*/
+html, body {
+    margin: 0;
+    padding: 0;
 }
 
-body{
-    background-color:#F2E2E0;
-    font-family: 'Courier', sans-serif;
-    color:#55403f;
+body {
+    background-color:#ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    text-align: left;
+    position: relative;
 }
 
 header{
-    background-color:#C7AEB0;
+    font-weight: 800;
+    background-color:#82a757;
+    width: 100%;
+    margin: 0px 0px 30px 0px;
+    padding:5px 5px 5px 5px;
+}
+
+main {
+    padding:5px 5px 5px 5px;
+    margin:30px 75px 30px 75px;
 }
 
 footer{
-    background-color:#C7AEB0;
-    height:75px;
-}
-
-h1,h2,h3,h4{ /*All the headings will be a dark olive green*/
-    color:#525023;
-}
-
-.image-circle { /*border radius will affect the corners of my image and allow some basic formatting*/
-    border-radius: 15%;
-}
-
-.wrapper {
-    text-align:left;
-    width:1000px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    background-color:#82a757;
+    margin: 30px 0px 0px 0px;
     padding:5px 5px 5px 5px;
-    margin:0px 10px 0px 10px;/*The top side and bottom side of the page will be set to 0px; the right and left side will be set to 10px*/
 }
 
-a{
-    font-family: 'courier', sans-serif; /*sans-serif will be the last font choice and is a typeface that every device should work with*/
-    font-size:15px;
+/*All the headings will be a dark olive green*/
+h1,h2,h3,h4{ 
+    color:#224402;
+    
 }
-a:link    { color:#6A5150; }
-a:visited { color:#7E7D58; }
-a:hover   { color:#af7573; }
-a:active  { color:#737373; }
+
+h2,h3 {
+    font-weight: 600;
+}
+
+h1,h4 {
+    margin:30px 75px 30px 75px;
+}
+
+p,li {
+    color: #656464;
+}
+
+.image-circle { 
+    /*border radius will affect the corners of my image and allow some basic formatting*/
+    border-radius: 50%;
+}
+
+a {
+    font-weight: 500;
+}
+
+/*All links will change to the following colors depending on user activity*/
+a:link    { color:#82a757; }
+a:visited { color:#224402; }
+a:hover   { color:#2a8631; }
