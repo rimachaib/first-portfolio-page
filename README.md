@@ -1,4 +1,23 @@
-# first-portfolio-page
-A simple web page written in HTML and CSS. This web page was a requirement for the final assignment within Thinkful's Flex Engineering Program lesson titled "HTML and CSS fundamentals".  The page contains a baisc layout that includes an Introduction, About Me, and Contact section.  Creating this web page allowed me to apply conceptual knowlege gained from the Thinkful curriculum to build my first personal web page.
+# My First Portfolio Page
+
+## Table of Contents
+* [General Information](#general-information)
+* [Technologies](#technologies)
+* [Screenshot](#screenshot)
+
+## General Information
+This static web page was created to practice writing HTML and CSS.  This page serves as a personal online business card and demonstrates skills learned throughout the early lessons in Codecademy's Front End Engineer Career Path.  The project goals included the following technical elements:
+* HTML elements must include doctype, html, head, body, meta, title,
+ h1, h2, h3, p, link, ul, ol, img, a, and hr.
+* CSS properties must include  background, color, font-family, font-size,
+ height, margin, padding, text-align
+* Both HTML and CSS files must include comments throughout each document explaining the code.
+
+## Technologies
+This web page is created with:
+* HTML
+* CSS
+
+## Screenshot
 
 ![Settings Window](https://raw.github.com/rimachaib/First-Portfolio-Page/main/first-portfolio-page-screenshot.png)
